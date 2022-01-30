@@ -1,2 +1,2 @@
 # Color Guess
- https://rajat2614.github.io/ColorGame/
+https://rajat2614.github.io/ColorGuess/
